@@ -1,0 +1,91 @@
+{
+   "checksum": "046e8cf5756897e3f9248c15fb92c942",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13335658085596581",
+            "date_last_used": "0",
+            "guid": "7dab1be8-21a1-4ba1-923d-9372c07308e1",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13335658154800184",
+            "date_last_used": "13337201778762933",
+            "guid": "ba43ac50-23f0-471d-817d-5a05b090c5a8",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mr. Jaffe's Class",
+            "type": "url",
+            "url": "https://www.mrjaffesclass.com/"
+         }, {
+            "date_added": "13335658175160850",
+            "date_last_used": "0",
+            "guid": "71592eed-b103-4067-a11b-1aada3c8363c",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "G-Drive",
+            "type": "url",
+            "url": "https://drive.google.com/"
+         }, {
+            "date_added": "13335658197920901",
+            "date_last_used": "0",
+            "guid": "098d56a6-3c3c-48a0-94dc-488e9c95debd",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AWS Academy",
+            "type": "url",
+            "url": "https://awsacademy.instructure.com/"
+         }, {
+            "date_added": "13335658219107781",
+            "date_last_used": "0",
+            "guid": "7544a611-440b-4283-b691-08bb84f1bf0d",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Digital Portfolio",
+            "type": "url",
+            "url": "https://digitalportfolio.collegeboard.com/"
+         } ],
+         "date_added": "13335658071583904",
+         "date_last_used": "0",
+         "date_modified": "13335658219107781",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13335658071583905",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13335658071583906",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

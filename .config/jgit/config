@@ -1,0 +1,3 @@
+[filesystem "Private Build|17.0.8|/dev/nvme0n1p2"]
+	timestampResolution = 5725 nanoseconds
+	minRacyThreshold = 7460 microseconds

@@ -1,0 +1,47 @@
+{
+   "checksum": "eb4dd8a820f24651b57f2cbc8c2f1b74",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13337289299393818",
+            "date_last_used": "0",
+            "guid": "1cc613b9-2082-403b-a7ae-6446cb612fa6",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mr. Jaffe's Class",
+            "type": "url",
+            "url": "https://www.mrjaffesclass.com/"
+         } ],
+         "date_added": "13337289204765402",
+         "date_last_used": "0",
+         "date_modified": "13337289299393818",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13337289204765406",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13337289204765408",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

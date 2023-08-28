@@ -1,0 +1,5 @@
+2023/08/24-10:49:09.419 bc3 Creating DB /home/student/.config/google-chrome/Profile 2/Sync Data/LevelDB since it was missing.
+2023/08/24-10:49:09.421 bc3 Reusing MANIFEST /home/student/.config/google-chrome/Profile 2/Sync Data/LevelDB/MANIFEST-000001
+2023/08/24-11:31:57.697 bb6 Level-0 table #5: started
+2023/08/24-11:31:57.700 bb6 Level-0 table #5: 109042 bytes OK
+2023/08/24-11:31:57.701 bb6 Delete type=0 #3
