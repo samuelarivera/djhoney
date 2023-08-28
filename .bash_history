@@ -150,3 +150,9 @@ cd ~/Desktop/ hello-world
 git add .
 git commit -m "Commit message"
 git push
+git init
+git remote add orgin https://github.com/EnriquedeCastro/Enrique.git
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git push -u orgin main

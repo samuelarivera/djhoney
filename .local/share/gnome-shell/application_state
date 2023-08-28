@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="bluej_bluej.desktop" score="26" last-seen="1693246583"/>
-    <application id="org.gnome.Nautilus.desktop" score="6" last-seen="1693246050"/>
-    <application id="google-chrome.desktop" score="1412" last-seen="1693246583"/>
-    <application id="org.gnome.Terminal.desktop" score="208" last-seen="1693246342"/>
+    <application id="bluej_bluej.desktop" score="35" last-seen="1693246681"/>
+    <application id="org.gnome.Nautilus.desktop" score="6" last-seen="1693247284"/>
+    <application id="google-chrome.desktop" score="1468" last-seen="1693247284"/>
+    <application id="org.gnome.Terminal.desktop" score="231" last-seen="1693246909"/>
     <application id="gnome-control-center.desktop" score="13" last-seen="1692728291"/>
   </context>
 </application-state>

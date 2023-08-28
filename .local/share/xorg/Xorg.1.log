@@ -447,3 +447,6 @@ See https://wayland.freedesktop.org/libinput/doc/1.20.0/touchpad-jumping-cursors
 [  1912.108] (**) Option "fd" "34"
 [  1912.110] (II) UnloadModule: "libinput"
 [  1912.110] (II) systemd-logind: releasing fd for 13:68
+[  2220.425] (EE) event5  - SynPS/2 Synaptics TouchPad: kernel bug: Touch jump detected and discarded.
+See https://wayland.freedesktop.org/libinput/doc/1.20.0/touchpad-jumping-cursors.html for details
+[  2220.425] (EE) event5  - SynPS/2 Synaptics TouchPad: WARNING: log rate limit exceeded (5 msgs per 24h). Discarding future messages.
