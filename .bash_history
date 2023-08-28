@@ -146,3 +146,7 @@ git clone https://github.com/EnriquedeCastro/hello-world.git
 cd ~/Desktop/hello-world
 cd ~/Desktop/ hello-world
 git add .
+cd ~/Desktop/ hello-world
+git add .
+git commit -m "Commit message"
+git push

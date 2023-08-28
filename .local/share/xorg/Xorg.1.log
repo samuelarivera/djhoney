@@ -442,3 +442,8 @@ See https://wayland.freedesktop.org/libinput/doc/1.20.0/touchpad-jumping-cursors
 See https://wayland.freedesktop.org/libinput/doc/1.20.0/touchpad-jumping-cursors.html for details
 [   459.690] (EE) event5  - SynPS/2 Synaptics TouchPad: kernel bug: Touch jump detected and discarded.
 See https://wayland.freedesktop.org/libinput/doc/1.20.0/touchpad-jumping-cursors.html for details
+[  1912.106] (II) event4  - PixArt Lenovo USB Optical Mouse: device removed
+[  1912.108] (II) config/udev: removing device PixArt Lenovo USB Optical Mouse
+[  1912.108] (**) Option "fd" "34"
+[  1912.110] (II) UnloadModule: "libinput"
+[  1912.110] (II) systemd-logind: releasing fd for 13:68
